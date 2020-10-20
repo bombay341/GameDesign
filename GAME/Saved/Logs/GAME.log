@@ -3037,3 +3037,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.20-23.53.26:628][485]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.10.20-23.53.26:629][485]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
 [2020.10.20-23.53.26:629][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.20-23.54.19:107][769]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.10.20-23.54.19:211][769]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.325
+[2020.10.20-23.54.19:217][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Charecter/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.10.20-23.54.19:218][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Charecter/2DSideScrollerCharacter]
+[2020.10.20-23.54.19:378][769]LogSavePackage: Moving '../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Saved/2DSideScrollerCharacter_Auto545075F234F72B3AE8843CE8EB238BDD9.tmp' to '../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Saved/Autosaves/Game/Charecter/2DSideScrollerCharacter_Auto5.uasset'
+[2020.10.20-23.54.19:380][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2020.10.20-23.54.19:380][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2020.10.20-23.54.19:408][769]LogSavePackage: Moving '../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Saved/2DSideScrollerGameMode_Auto579F6FE8143CE3F6C94C945A993D67EC0.tmp' to '../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto5.uasset'
+[2020.10.20-23.54.19:409][769]LogFileHelpers: Auto-saving content packages took 0.195
