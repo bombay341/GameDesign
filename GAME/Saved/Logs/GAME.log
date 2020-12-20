@@ -1248,3 +1248,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.20-13.18.26:561][821]LogSavePackage: Moving '../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Saved/Enemies17E6A4F604E7226C4D9580FA27E616881.tmp' to '../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Content/Enemies/Enemies1.uasset'
 [2020.12.20-13.18.26:580][821]AssetCheck: New page: Asset Save: Enemies1
 [2020.12.20-13.18.26:580][821]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Enemies1.Enemies1
+[2020.12.20-13.18.55:731][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map/Level1" FILE="../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Content/Map/map/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.20-13.18.55:834][268]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2020.12.20-13.18.56:085][268]LogSavePackage: Moving '../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Saved/Level1158C24BA4EED27E9F7A45D91882298D6.tmp' to '../../../../../Users/Bombay/Documents/GitHub/GameDesign/GAME/Content/Map/map/Level1.umap'
+[2020.12.20-13.18.56:154][268]AssetCheck: New page: Asset Save: Level1
+[2020.12.20-13.18.56:154][268]LogContentValidation: Display: Validating World /Game/Map/map/Level1.Level1
+[2020.12.20-13.19.04:232][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
